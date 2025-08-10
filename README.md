@@ -1,4 +1,4 @@
-#Netflix Movies & TV Shows Dashboard
+Netflix Movies & TV Shows Dashboard
 ##Dashboard Name
 Netflix Movies & TV Shows – Interactive Tableau Dashboard
 

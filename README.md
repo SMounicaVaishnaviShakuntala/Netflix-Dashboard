@@ -4,7 +4,7 @@
 **Netflix Movies & TV Shows – Interactive Tableau Dashboard**
 
 ## **Dataset Used**
-- **Source:** [Netflix Movies and TV Shows – Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)  
+- **Source:** Kaggle 
 - **Local File:** [Download Dataset](https://drive.google.com/file/d/1g_DPzEeyYQiVQPdzken5J592vUGEf3-1/view?usp=sharing)  
 - **Description:** Contains details of movies and TV shows available on Netflix, including title, type, director, cast, country, release year, rating, duration, and genre.
 
